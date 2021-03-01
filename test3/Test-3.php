@@ -3,8 +3,6 @@
 Plugin Name: Test 3
 Description: A shortcode generator plugin for Test 3
 Author: Davide Guerra
-Text Domain: test3
-Domain Path: /languages/
 Version: 1.0
 */
 
